@@ -1,16 +1,18 @@
-## 2023 서울 우먼테크 해커톤
+## 이루다
 ```
-⭐ 쑥스러운 자매들 팀
+💡 중장년 재취업 목표 달성 도우미 앱
+🔥 2023 서울 우먼테크 해커톤
 📆 2023.07.10.수 ~ 2023.08.09.수
 ```
 
-<div align="center"> 
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwomentech-hackathon&count_bg=%238BB8E7&title_bg=%234385CA&icon=iconify.svg&icon_color=%23E7E7E7&title=%EC%91%A5%EC%8A%A4%EB%9F%AC%EC%9A%B4+%EC%9E%90%EB%A7%A4%EB%93%A4&edge_flat=false"/>
+<div align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwomentech-hackathon&count_bg=%238CA7FF&title_bg=%235C82FC&icon=micro-dot-blog.svg&icon_color=%23FFDC62&title=%EC%9D%B4%EB%A3%A8%EB%8B%A4&edge_flat=false"/></a>
   </a>
 </div>
 
-### 👩🏻‍💻 People
+---
+
+### 👩🏻‍💻 People of 쑥스러운 자매들
 | Role | Name | Stack | Github ID |
 | :------------: | :------------: | :------------: | :------------: |
 | **Plan** | 김효진 |  |  |  
@@ -18,3 +20,10 @@
 | **iOS** | 임연주 | Flutter | [@yeondooo](https://github.com/yeondooo) |
 | **AOS** | 조정미 | Kotlin | [@jung0115](https://github.com/jung0115) |
 | **Server** | 이소연 | SpringBoot | [@soyeonii](https://github.com/soyeonii) |
+
+<br/>
+
+### 🛠️ Tech Stack
+- **iOS** : `Flutter`, `Dart`  
+- **AOS** : `Android Studio`, `Kotlin`  
+- **Server** : `Spring Boot`, `Java`  
