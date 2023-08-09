@@ -1,10 +1,10 @@
-![Cover](https://github.com/womentech-hackathon/Womentech_AOS/assets/76805879/6ba08cc8-5b82-4568-aba6-07b48291e671)
+![Cover](https://github.com/womentech-hackathon/.github/assets/76805879/997d71ed-d623-4b37-920f-ac527979c982)
 
 ## 이루다
 ```
 💡 중장년 재취업 목표 달성 도우미 앱
 📆 2023.07.10.수 ~ 2023.08.09.수
-🔥 2023 서울 우먼테크 해커톤
+🏆 2023 서울 우먼테크 해커톤 우수상(3위)
 ```
 
 <div align="center">
