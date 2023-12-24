@@ -54,19 +54,19 @@
 | :------------: | :------------: | :------------: | :------------: |
 | **Plan** | 김효진 |  |  |  
 | **Design** | 이연재 |  |  |
-| **iOS** | 임연주 | Flutter | [@yeondooo](https://github.com/yeondooo) |
 | **AOS** | 조정미 | Kotlin | [@jung0115](https://github.com/jung0115) |
+| **Flutter** | 임연주 | Flutter | [@yeondooo](https://github.com/yeondooo) |
 | **Server** | 이소연 | SpringBoot | [@soyeonii](https://github.com/soyeonii) |
 
 ---
 
 ### 🛠️ Tech Stack
-**iOS**  
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter" height="24"/> </a> <!-- Flutter -->
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="dart" height="24"/> </a> <!-- Dart -->  
 **AOS**  
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="http://img.shields.io/badge/-Android_Studio-3DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=white" alt="android" height="24"/> </a> <!-- 안드로이드 -->
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="http://img.shields.io/badge/-Kotlin-7f52ff?style=for-the-badge&logo=Kotlin&logoColor=white" alt="kotlin" height="24"/> </a> <!-- Kotlin -->  
 **Server**  
 <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="http://img.shields.io/badge/-spring_boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="springboot" height="24"/> </a> <!-- SpringBoot -->
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" alt="java" height="24"/> </a> <!-- Java -->  
+**Flutter**  
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter" height="24"/> </a> <!-- Flutter -->
+<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="dart" height="24"/> </a> <!-- Dart -->  
